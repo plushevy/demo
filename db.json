@@ -1,59 +1,22 @@
 {
+  "success": true,
+  "errorId": null,
+  "errorText": "",
   "result": [
     {
-      "key": "wwwroot",
-      "name": "wwwroot",
-      "dateModified": "2021-02-09T22:42:35.290",
+      "key": "aspnet",
+      "name": "aspnet",
+      "dateModified": "2018-11-08T18:10:08.6585246Z",
       "isDirectory": true,
       "size": 0,
-      "hasSubDirectories": true
-    },
-    {
-      "key": "views",
-      "name": "views",
-      "dateModified": "2021-02-09T22:42:35.290",
-      "isDirectory": true,
-      "size": 0,
-      "hasSubDirectories": true
-    },
-    {
-      "key": "wwwroot\\js",
-      "name": "js",
-      "dateModified": "2021-02-09T22:42:35.290",
-      "isDirectory": true,
-      "size": 0,
-      "hasSubDirectories": true
-    },
-    {
-      "key": "wwwroot\\js\\function.js",
-      "name": "function.js",
-      "dateModified": "2021-02-09T22:42:35.290",
-      "isDirectory": false,
-      "size": 18,
       "hasSubDirectories": false
     },
-    {
-      "key": "wwwroot\\views\\index.html",
-      "name": "index.html",
-      "dateModified": "2021-02-09T22:42:35.290",
+        {
+      "key": "dx.aspnet.data.js",
+      "name": "dx.aspnet.data.js",
+      "dateModified": "2020-10-28T12:24:40Z",
       "isDirectory": false,
-      "size": 14,
-      "hasSubDirectories": false
-    },
-    {
-      "key": "wwwroot\\views\\about.html",
-      "name": "about.html",
-      "dateModified": "2021-02-09T22:42:35.290",
-      "isDirectory": false,
-      "size": 13,
-      "hasSubDirectories": false
-    },
-    {
-      "key": "wwwroot\\config.text",
-      "name": "config.text",
-      "dateModified": "2021-02-09T22:42:35.290",
-      "isDirectory": false,
-      "size": 15,
+      "size": 12817,
       "hasSubDirectories": false
     }
   ]
