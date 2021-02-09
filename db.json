@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "result": [
+    {
+      "key": "wwwroot",
+      "name": "wwwroot",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": true,
+      "size": 0,
+      "hasSubDirectories": true
+    },
+    {
+      "key": "views",
+      "name": "views",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": true,
+      "size": 0,
+      "hasSubDirectories": true
+    },
+    {
+      "key": "wwwroot\\js",
+      "name": "js",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": true,
+      "size": 0,
+      "hasSubDirectories": true
+    },
+    {
+      "key": "wwwroot\\js\\function.js",
+      "name": "function.js",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": false,
+      "size": 18,
+      "hasSubDirectories": false
+    },
+    {
+      "key": "wwwroot\\views\\index.html",
+      "name": "index.html",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": false,
+      "size": 14,
+      "hasSubDirectories": false
+    },
+    {
+      "key": "wwwroot\\views\\about.html",
+      "name": "about.html",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": false,
+      "size": 13,
+      "hasSubDirectories": false
+    },
+    {
+      "key": "wwwroot\\config.text",
+      "name": "config.text",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": false,
+      "size": 15,
+      "hasSubDirectories": false
+    }
+  ]
 }
