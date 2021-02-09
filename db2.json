@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "key": "wwwroot",
+      "name": "wwwroot",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": true,
+      "size": 0,
+      "hasSubDirectories": true
+    },
+    {
+      "key": "views",
+      "name": "views",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": true,
+      "size": 0,
+      "hasSubDirectories": true
+    },
+    {
+      "key": "config.text",
+      "name": "config.text",
+      "dateModified": "2021-02-09T22:42:35.290",
+      "isDirectory": false,
+      "size": 15,
+      "hasSubDirectories": false
+    }
+  ]
+}
